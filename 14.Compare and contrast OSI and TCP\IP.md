@@ -13,3 +13,5 @@ Khi nhìn vào hình ảnh ở trên ta thấy rõ sự khác biệt giữa hai 
 - Mô hình TCP/IP kết hợp hai lớp Presentation và Secssion vào trong một lớp Aplication
 - Mô hình TCP/IP kết hợp lớp Data Link và Physical vào trong một lớp Network 
 - Giao thức TCP/IP được chuẩn hóa và được sử dụng phổ biến.
+
+<img src="https://i.imgur.com/vT3jhvy.png">
