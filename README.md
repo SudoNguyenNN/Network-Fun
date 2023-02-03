@@ -1,3 +1,3 @@
 # Network-Fun
 
-How to understan Network Protocol, TCP IP
+Tìm hiểu về các giao thức trong Network
