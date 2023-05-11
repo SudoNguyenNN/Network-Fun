@@ -1,3 +1,3 @@
 # Network-Fun
 
-Tìm hiểu về các giao thức trong Network
+Tìm hiểu về Network và các giao thức trong Network
